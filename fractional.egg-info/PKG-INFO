@@ -1,0 +1,30 @@
+Metadata-Version: 1.1
+Name: fractional
+Version: 0.0.1
+Summary: A library that helps to get fractional part of a number
+Home-page: UNKNOWN
+Author: Suyog Savalkar
+Author-email: suyog231002@gmail.com
+License: MIT
+Description: A python library that allows you to get the fractional part of a number
+        
+        ========================================================================
+        
+        
+        
+        Change Log
+        
+        ===========
+        
+        0.0.1 (07/06/2021)
+        
+        -----------
+        
+        First Release
+Keywords: fraction
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
